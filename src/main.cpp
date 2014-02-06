@@ -1,14 +1,26 @@
 #include "ofMain.h"
-#include "testApp.h"
+
+class testApp : public ofBaseApp{
+    //--------------------------------------------------------------
+    void setup(){
+        ofBackground(0);
+        ofSetFrameRate(60);
+        ofSetVerticalSync(true);
+    }
+    
+    //--------------------------------------------------------------
+    void update(){
+        
+    }
+    
+    //--------------------------------------------------------------
+    void draw(){
+        
+    }
+};
 
 //========================================================================
 int main( ){
-
-	ofSetupOpenGL(960,540, OF_WINDOW);			// <-------- setup the GL context
-
-	// this kicks off the running of my app
-	// can be OF_WINDOW or OF_FULLSCREEN
-	// pass in width and height too:
+	ofSetupOpenGL(960,540, OF_WINDOW);
 	ofRunApp( new testApp());
-
 }
