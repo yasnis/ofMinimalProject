@@ -1,1893 +1,0 @@
-TofApp
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Info.plist /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist
-cCompileC DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/MacOS/ofAppDebug normal i386
-cPhaseScriptExecution Run\ Script /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-cPBXCp /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework bin/ofAppDebug.app/Contents/Frameworks/GLUT.framework
-cTouch /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c0000000052D02BCA00000000000000AA
-t1389374410
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c00000000523A797100000000000004B3
-t1379563889
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000052D02B9E00000000000001DE
-t1389374366
-s478
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AGL.framework/AGL
-c0000000052D02B9E00000000000082EC
-t1389374366
-s33516
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
-c0000000052D02B9E00000000000024F0
-t1389374366
-s9456
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
-c00000000523A7971000000000000EE9C
-t1379563889
-s61084
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-c00000000523A7971000000000001FB78
-t1379563889
-s129912
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
-c00000000523A797100000000000862D0
-t1379563889
-s549584
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-c0000000052D02B9E000000000000D710
-t1389374366
-s55056
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
-c0000000052D02B9E000000000000EE04
-t1389374366
-s60932
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-c0000000052D02B9E000000000024BF04
-t1389374366
-s2408196
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c00000000523A79710000000000007C70
-t1379563889
-s31856
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
-c00000000523A79710000000000020E90
-t1379563889
-s134800
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
-c00000000523A7972000000000001A05C
-t1379563890
-s106588
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
-c0000000052D02B9E00000000000359C8
-t1389374366
-s219592
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
-c00000000523A7972000000000000CC94
-t1379563890
-s52372
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
-c00000000523A7972000000000002C318
-t1379563890
-s181016
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
-c0000000052D02B9E00000000000283C4
-t1389374366
-s164804
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
-c00000000523A79720000000000013F68
-t1379563890
-s81768
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c0000000052D02B9F0000000000024DF8
-t1389374367
-s151032
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
-c0000000052D02B9F00000000000060B4
-t1389374367
-s24756
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-c0000000052D02B9F000000000004BC80
-t1389374367
-s310400
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Carbon
-c00000000523A79720000000000002B7C
-t1379563890
-s11132
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
-c00000000523A79720000000000004270
-t1379563890
-s17008
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
-c00000000523A79720000000000008C80
-t1379563890
-s35968
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
-c00000000523A797600000000000A8654
-t1379563894
-s689748
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
-c00000000523A7976000000000000809C
-t1379563894
-s32924
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
-c00000000523A7976000000000000667C
-t1379563894
-s26236
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
-c00000000523A79760000000000017534
-t1379563894
-s95540
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
-c00000000523A7976000000000001F39C
-t1379563894
-s127900
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
-c00000000523A7976000000000000D964
-t1379563894
-s55652
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
-c00000000523A79760000000000010E2C
-t1379563894
-s69164
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
-c00000000523A79760000000000006E68
-t1379563894
-s28264
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
-c0000000052D02B9F0000000000004EB0
-t1389374367
-s20144
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
-c00000000523A7976000000000000ADB8
-t1379563894
-s44472
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
-c00000000523A797600000000000025C8
-t1379563894
-s9672
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c0000000052D02B9F000000000000E880
-t1389374367
-s59520
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-c00000000523A79760000000000045D30
-t1379563894
-s286000
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c0000000052D02B9F000000000008163C
-t1389374367
-s529980
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000052D02B9F0000000000087790
-t1389374367
-s554896
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
-c00000000523A7977000000000000962C
-t1379563895
-s38444
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
-c00000000523A79770000000000020624
-t1379563895
-s132644
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
-c0000000052D02B9F000000000006F490
-t1389374367
-s455824
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-c00000000523A79770000000000016F90
-t1379563895
-s94096
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
-c0000000052D02B9F000000000004546C
-t1389374367
-s283756
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
-c0000000052D02B9F000000000002FA40
-t1389374367
-s195136
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
-c0000000052D02B9F0000000000041644
-t1389374367
-s267844
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
-c00000000523A7977000000000001B5F8
-t1379563895
-s112120
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-c0000000052D02B9F000000000002E0E4
-t1389374367
-s188644
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c00000000523A797700000000000170A4
-t1379563895
-s94372
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000052D02BA000000000000C4C54
-t1389374368
-s805972
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/IOKit.framework/IOKit
-c0000000052D02BA0000000000003E9B0
-t1389374368
-s256432
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
-c0000000052D02BA00000000000035AE4
-t1389374368
-s219876
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
-c0000000052D02BA0000000000000ADDC
-t1389374368
-s44508
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
-c0000000052D02BA00000000000021534
-t1389374368
-s136500
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-c0000000052D02BA000000000000052B8
-t1389374368
-s21176
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QTKit.framework/QTKit
-c0000000052D02BA00000000000077DF0
-t1389374368
-s490992
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
-c0000000052D02BA1000000000006124C
-t1389374369
-s397900
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/vecLib.framework/vecLib
-c0000000052D02BA100000000000025EC
-t1389374369
-s9708
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
-c00000000523A797F0000000000002310
-t1379563903
-s8976
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
-c0000000052D02BA2000000000000654C
-t1389374370
-s25932
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libgcc_s.1.dylib
-c0000000052D02BA2000000000000654C
-t1389374370
-s25932
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.A.dylib
-c00000000523A797F00000000000143EC
-t1379563903
-s82924
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libstdc++.dylib
-c00000000523A7980000000000009E060
-t1379563904
-s647264
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
-c00000000523A79800000000000004528
-t1379563904
-s17704
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
-c00000000523A7980000000000000EDB8
-t1379563904
-s60856
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
-c00000000523A7980000000000000984C
-t1379563904
-s38988
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
-c00000000523A79800000000000004FEC
-t1379563904
-s20460
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
-c00000000523A79800000000000009F64
-t1379563904
-s40804
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
-c00000000523A798000000000000031D0
-t1379563904
-s12752
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
-c00000000523A798000000000000052E4
-t1379563904
-s21220
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
-c00000000523A79800000000000002D34
-t1379563904
-s11572
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
-c00000000523A798000000000000084E8
-t1379563904
-s34024
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
-c00000000523A79800000000000004FF4
-t1379563904
-s20468
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
-c0000000052D02BA200000000000047A4
-t1389374370
-s18340
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
-c00000000523A79800000000000004364
-t1379563904
-s17252
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
-c00000000523A79800000000000002EF0
-t1379563904
-s12016
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
-c0000000052D02BA20000000000046BB8
-t1389374370
-s289720
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
-c0000000052D02BA200000000000067BC
-t1389374370
-s26556
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
-c00000000523A7980000000000001AD9C
-t1379563904
-s109980
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
-c0000000052D02BA20000000000016C74
-t1389374370
-s93300
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
-c00000000523A7980000000000000F204
-t1379563904
-s61956
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
-c00000000523A79800000000000008EC8
-t1379563904
-s36552
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
-c00000000523A79800000000000008B14
-t1379563904
-s35604
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
-c0000000052D02BA200000000000047C0
-t1389374370
-s18368
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
-c00000000523A798000000000000044D8
-t1379563904
-s17624
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
-c00000000523A798000000000000067AC
-t1379563904
-s26540
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
-c0000000052D02BA20000000000011E4C
-t1389374370
-s73292
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
-c0000000052D02BBE0000000000000720
-t1389374398
-s1824
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
-c0000000052D02BBE0000000000001750
-t1389374398
-s5968
-
-N/System/Library/Frameworks/AGL.framework/AGL
-c0000000052ABE9540000000000019CF0
-t1386998100
-s105712
-
-N/System/Library/Frameworks/Accelerate.framework/Accelerate
-c0000000052ABE92900000000000065A0
-t1386998057
-s26016
-
-N/System/Library/Frameworks/AppKit.framework/AppKit
-c0000000052ABE8F600000000024991A0
-t1386998006
-s38375840
-
-N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c0000000052ABE8F8000000000000BC70
-t1386998008
-s48240
-
-N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c0000000052ABE8FF00000000003E3C00
-t1386998015
-s4078592
-
-N/System/Library/Frameworks/Carbon.framework/Carbon
-c0000000052ABE8FD0000000000006B20
-t1386998013
-s27424
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c0000000052ABE8FD00000000000066C0
-t1386998013
-s26304
-
-N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c0000000052ABE8FE00000000000EFD70
-t1386998014
-s982384
-
-N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c0000000052ABE8F90000000000688550
-t1386998009
-s6849872
-
-N/System/Library/Frameworks/CoreServices.framework/CoreServices
-c0000000052ABE902000000000000D730
-t1386998018
-s55088
-
-N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c0000000052ABE9030000000000080210
-t1386998019
-s524816
-
-N/System/Library/Frameworks/IOKit.framework/IOKit
-c0000000052ABE90C0000000000141E90
-t1386998028
-s1318544
-
-N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c0000000052ABE912000000000002C960
-t1386998034
-s182624
-
-N/System/Library/Frameworks/QTKit.framework/QTKit
-c0000000052E367AC000000000049D700
-t1390634924
-s4839168
-
-N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c0000000052E367AC0000000000322B80
-t1390634924
-s3287936
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o
-t1391708664
-s101404
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/ofAppDebug.LinkFileList
-c0000000052F3C98200000000000000AA
-t1391708546
-s170
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-c0000000052F3C98200000000000001A5
-t1391708546
-s421
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app
-t1391708628
-s102
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Frameworks/GLUT.framework
-t1391708551
-s204
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Info.plist
-t1391708546
-s1104
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/MacOS/ofAppDebug
-t1391708665
-s7790436
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/PkgInfo
-t1391708546
-s8
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist
-c0000000052081B9800000000000002A5
-t1376263064
-s677
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp
-c0000000052F3C9F30000000000000275
-t1391708659
-s629
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
-c0000000052081B5400000000000021FA
-t1376262996
-s8698
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-features.h
-c0000000052081B54000000000000031D
-t1376262996
-s797
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-pdf.h
-c0000000052081B540000000000000C24
-t1376262996
-s3108
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-svg.h
-c0000000052081B540000000000000ADD
-t1376262996
-s2781
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-version.h
-c0000000052081B540000000000000094
-t1376262996
-s148
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo.h
-c0000000052081B540000000000016BCE
-t1376262996
-s93134
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/lib/osx/cairo-script-interpreter.a
-c0000000052081B540000000000026B18
-t1376262996
-s158488
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/lib/osx/cairo.a
-c0000000052081B54000000000010AD50
-t1376262996
-s1092944
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/lib/osx/pixman-1.a
-c0000000052081B56000000000015F3D8
-t1376262998
-s1438680
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod.h
-c0000000052081B580000000000028E68
-t1376263000
-s167528
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_codec.h
-c0000000052081B58000000000000334A
-t1376263000
-s13130
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_dsp.h
-c0000000052081B58000000000000892F
-t1376263000
-s35119
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_errors.h
-c0000000052081B580000000000003408
-t1376263000
-s13320
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_memoryinfo.h
-c0000000052081B580000000000003C95
-t1376263000
-s15509
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/lib/osx/libfmodex.dylib
-c0000000052081B5800000000001DD8CC
-t1376263000
-s1956044
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glew/include/GL/glew.h
-c0000000052081B5A00000000000C1916
-t1376263002
-s792854
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glew/lib/osx/glew.a
-c0000000052081B5A000000000009ECC8
-t1376263002
-s650440
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glfw/lib/osx/libglfw3.a
-c0000000052081B5A0000000000017C38
-t1376263002
-s97336
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework
-c0000000052081B5A00000000000000CC
-t1376263002
-s204
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT
-c0000000052081B5A0000000000093570
-t1376263002
-s603504
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
-c0000000052081B5A000000000000209B
-t1376263002
-s8347
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dUtils.h
-c0000000052081B5A00000000000001B2
-t1376263002
-s434
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofCamera.h
-c0000000052081B5A0000000000000A1A
-t1376263002
-s2586
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h
-c0000000052081B5A00000000000007D4
-t1376263002
-s2004
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofMesh.h
-c0000000052081B5A0000000000001C09
-t1376263002
-s7177
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofNode.h
-c0000000052081B5A0000000000001454
-t1376263002
-s5204
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
-c0000000052081B5A000000000000082C
-t1376263002
-s2092
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h
-c0000000052081B5A0000000000000A14
-t1376263002
-s2580
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/app/ofBaseApp.h
-c0000000052081B5A00000000000008BF
-t1376263002
-s2239
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofArduino.h
-c0000000052081B5A0000000000004239
-t1376263002
-s16953
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofSerial.h
-c0000000052081B5A0000000000000D7E
-t1376263002
-s3454
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/events/ofDelegate.h
-c0000000052081B5A0000000000001B84
-t1376263002
-s7044
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEventUtils.h
-c0000000052081B5A0000000000002073
-t1376263002
-s8307
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEvents.h
-c0000000052081B5A0000000000001DDF
-t1376263002
-s7647
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofFbo.h
-c0000000052081B5A0000000000001162
-t1376263002
-s4450
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
-c0000000052081B5A00000000000018BA
-t1376263002
-s6330
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
-c0000000052081B5A0000000000001451
-t1376263002
-s5201
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLUtils.h
-c0000000052081B5A00000000000013ED
-t1376263002
-s5101
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofLight.h
-c0000000052081B5A000000000000094E
-t1376263002
-s2382
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofMaterial.h
-c0000000052081B5A00000000000005D2
-t1376263002
-s1490
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofShader.h
-c0000000052081B5A000000000000153E
-t1376263002
-s5438
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofTexture.h
-c0000000052081B5A0000000000001CFB
-t1376263002
-s7419
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVbo.h
-c0000000052081B5A0000000000000EA1
-t1376263002
-s3745
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVboMesh.h
-c0000000052081B5A0000000000000358
-t1376263002
-s856
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
-c0000000052081B5A0000000000000FEA
-t1376263002
-s4074
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
-c0000000052081B5A0000000000001763
-t1376263002
-s5987
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofGraphics.h
-c0000000052081B5A00000000000027B4
-t1376263002
-s10164
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofImage.h
-c0000000052081B5A00000000000021C4
-t1376263002
-s8644
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPath.h
-c0000000052081B5A0000000000001AFA
-t1376263002
-s6906
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPixels.h
-c0000000052081B5A000000000000148C
-t1376263002
-s5260
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPolyline.h
-c0000000052081B5A000000000000234E
-t1376263002
-s9038
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
-c0000000052081B5A0000000000002CC6
-t1376263002
-s11462
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTessellator.h
-c0000000052081B5A0000000000000459
-t1376263002
-s1113
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
-c0000000052081B5A0000000000000C65
-t1376263002
-s3173
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMath.h
-c0000000052081B5A00000000000015DE
-t1376263002
-s5598
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
-c0000000052081B5A0000000000000BB7
-t1376263002
-s2999
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
-c0000000052081B5A0000000000006D6A
-t1376263002
-s28010
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofQuaternion.h
-c0000000052081B5A00000000000034A0
-t1376263002
-s13472
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec2f.h
-c0000000052081B5A0000000000004343
-t1376263002
-s17219
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec3f.h
-c0000000052081B5A00000000000064A7
-t1376263002
-s25767
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec4f.h
-c0000000052081B5A0000000000002FCF
-t1376263002
-s12239
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVectorMath.h
-c0000000052081B5A0000000000000099
-t1376263002
-s153
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/ofMain.h
-c0000000052081B5A000000000000070A
-t1376263002
-s1802
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
-c0000000052081B5A0000000000000406
-t1376263002
-s1030
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
-c0000000052081B5A000000000000036D
-t1376263002
-s877
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
-c0000000052081B5A00000000000006F4
-t1376263002
-s1780
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
-c0000000052081B5A000000000000054A
-t1376263002
-s1354
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
-c0000000052081B5A000000000000075B
-t1376263002
-s1883
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundStream.h
-c0000000052081B5A000000000000073B
-t1376263002
-s1851
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofBaseTypes.h
-c0000000052081B5A00000000000035C7
-t1376263002
-s13767
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofColor.h
-c0000000052081B5A0000000000001CA4
-t1376263002
-s7332
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameter.h
-c0000000052081B5A0000000000005A4B
-t1376263002
-s23115
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameterGroup.h
-c0000000052081B5A0000000000001042
-t1376263002
-s4162
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofPoint.h
-c0000000052081B5A000000000000003D
-t1376263002
-s61
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofRectangle.h
-c0000000052081B5A0000000000001C5F
-t1376263002
-s7263
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofTypes.h
-c0000000052081B5A00000000000013C2
-t1376263002
-s5058
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofConstants.h
-c0000000052081B5A00000000000048AB
-t1376263002
-s18603
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofFileUtils.h
-c0000000052081B5A0000000000002049
-t1376263002
-s8265
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofLog.h
-c0000000052081B5A0000000000001836
-t1376263002
-s6198
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
-c0000000052081B5A0000000000000A56
-t1376263002
-s2646
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
-c0000000052081B5A0000000000000202
-t1376263002
-s514
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofThread.h
-c0000000052081B5A0000000000001410
-t1376263002
-s5136
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
-c0000000052081B5A00000000000008E5
-t1376263002
-s2277
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofUtils.h
-c0000000052081B5A00000000000017D0
-t1376263002
-s6096
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofXml.h
-c0000000052081B5A0000000000001F52
-t1376263002
-s8018
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
-c0000000052081B5A0000000000000B71
-t1376263002
-s2929
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
-c0000000052081B5A000000000000122A
-t1376263002
-s4650
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
-c0000000052081B5A0000000000000AE6
-t1376263002
-s2790
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
-c0000000052081B5A0000000000000B95
-t1376263002
-s2965
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
-c0000000052EDD68100000000020878F8
-t1391318657
-s34109688
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openssl/lib/osx/crypto.a
-c0000000052081B5C00000000002655A0
-t1376263004
-s2512288
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openssl/lib/osx/ssl.a
-c0000000052081B5C000000000006EF18
-t1376263004
-s454424
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractDelegate.h
-c0000000052081B5E0000000000000E6B
-t1376263006
-s3691
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractEvent.h
-c0000000052081B5E0000000000005544
-t1376263006
-s21828
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
-c0000000052081B5E00000000000009C9
-t1376263006
-s2505
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveMethod.h
-c0000000052081B5E0000000000001C64
-t1376263006
-s7268
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveResult.h
-c0000000052081B5E0000000000002E66
-t1376263006
-s11878
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveRunnable.h
-c0000000052081B5E0000000000001785
-t1376263006
-s6021
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveStarter.h
-c0000000052081B5E0000000000000927
-t1376263006
-s2343
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Any.h
-c0000000052081B5E00000000000020E8
-t1376263006
-s8424
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AtomicCounter.h
-c0000000052081B5E0000000000002138
-t1376263006
-s8504
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoPtr.h
-c0000000052081B5E0000000000001E0C
-t1376263006
-s7692
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoReleasePool.h
-c0000000052081B5E0000000000000C42
-t1376263006
-s3138
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Bugcheck.h
-c0000000052081B5E00000000000014A9
-t1376263006
-s5289
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Condition.h
-c0000000052081B5E0000000000001236
-t1376263006
-s4662
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Config.h
-c0000000052081B5E0000000000000EA4
-t1376263006
-s3748
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
-c0000000052081B5E0000000000000E9C
-t1376263006
-s3740
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
-c0000000052081B5E000000000000127B
-t1376263006
-s4731
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Attr.h
-c0000000052081B5E0000000000001E38
-t1376263006
-s7736
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
-c0000000052081B5E0000000000001233
-t1376263006
-s4659
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
-c0000000052081B5E00000000000008CF
-t1376263006
-s2255
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMException.h
-c0000000052081B5E00000000000013B9
-t1376263006
-s5049
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
-c0000000052081B5E0000000000000E55
-t1376263006
-s3669
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
-c0000000052081B5E0000000000001005
-t1376263006
-s4101
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
-c0000000052081B5E000000000000105D
-t1376263006
-s4189
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Document.h
-c0000000052081B5E0000000000002C58
-t1376263006
-s11352
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
-c0000000052081B5E0000000000000D80
-t1376263006
-s3456
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
-c0000000052081B5E0000000000001153
-t1376263006
-s4435
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Element.h
-c0000000052081B5E000000000000247F
-t1376263006
-s9343
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Event.h
-c0000000052081B5E0000000000001CD3
-t1376263006
-s7379
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
-c0000000052081B5E0000000000000FEE
-t1376263006
-s4078
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
-c0000000052081B5E00000000000015B9
-t1376263006
-s5561
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
-c0000000052081B5E0000000000001172
-t1376263006
-s4466
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Node.h
-c0000000052081B5E0000000000003276
-t1376263006
-s12918
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
-c0000000052081B5E0000000000001A30
-t1376263006
-s6704
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
-c0000000052081B5E000000000000189F
-t1376263006
-s6303
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeList.h
-c0000000052081B5E0000000000000A81
-t1376263006
-s2689
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Text.h
-c0000000052081B5E0000000000000ECF
-t1376263006
-s3791
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Event.h
-c0000000052081B5E0000000000000E58
-t1376263006
-s3672
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Event_POSIX.h
-c0000000052081B5E0000000000000A91
-t1376263006
-s2705
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Exception.h
-c0000000052081B5E00000000000028B1
-t1376263006
-s10417
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/File.h
-c0000000052081B5E0000000000001FCC
-t1376263006
-s8140
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/File_UNIX.h
-c0000000052081B5E0000000000000BC1
-t1376263006
-s3009
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Foundation.h
-c0000000052081B5E00000000000010F9
-t1376263006
-s4345
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
-c0000000052081B5E0000000000002C69
-t1376263006
-s11369
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex.h
-c0000000052081B5E0000000000001DD6
-t1376263006
-s7638
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
-c0000000052081B5E0000000000000AC2
-t1376263006
-s2754
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/NotificationStrategy.h
-c0000000052081B5E0000000000000F3F
-t1376263006
-s3903
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Path.h
-c0000000052081B5E00000000000036A0
-t1376263006
-s13984
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform.h
-c0000000052081B5E0000000000001CBD
-t1376263006
-s7357
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform_POSIX.h
-c0000000052081B5E0000000000000843
-t1376263006
-s2115
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityDelegate.h
-c0000000052081B5E0000000000003516
-t1376263006
-s13590
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityEvent.h
-c0000000052081B5E0000000000000A78
-t1376263006
-s2680
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityExpire.h
-c0000000052081B5E000000000000155B
-t1376263006
-s5467
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityStrategy.h
-c0000000052081B5E00000000000013CE
-t1376263006
-s5070
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/RefCountedObject.h
-c0000000052081B5E0000000000000BB1
-t1376263006
-s2993
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Runnable.h
-c0000000052081B5E0000000000000861
-t1376263006
-s2145
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
-c0000000052081B5E000000000000322F
-t1376263006
-s12847
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
-c0000000052081B5E00000000000012A1
-t1376263006
-s4769
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
-c0000000052081B5E0000000000001975
-t1376263006
-s6517
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/Locator.h
-c0000000052081B5E0000000000001678
-t1376263006
-s5752
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
-c0000000052081B5E0000000000002491
-t1376263006
-s9361
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXException.h
-c0000000052081B5E0000000000001BF7
-t1376263006
-s7159
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
-c0000000052081B5E00000000000010D3
-t1376263006
-s4307
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
-c0000000052081B5E00000000000026EA
-t1376263006
-s9962
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedLock.h
-c0000000052081B5E0000000000000CC5
-t1376263006
-s3269
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedUnlock.h
-c0000000052081B5E000000000000092B
-t1376263006
-s2347
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SharedPtr.h
-c0000000052081B5E0000000000002278
-t1376263006
-s8824
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SignalHandler.h
-c0000000052081B5E0000000000001205
-t1376263006
-s4613
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SingletonHolder.h
-c0000000052081B5E0000000000000A67
-t1376263006
-s2663
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamConverter.h
-c0000000052081B5E0000000000001588
-t1376263006
-s5512
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamUtil.h
-c0000000052081B5E0000000000000E2F
-t1376263006
-s3631
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/TextEncoding.h
-c0000000052081B5E0000000000002078
-t1376263006
-s8312
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread.h
-c0000000052081B5E0000000000001E48
-t1376263006
-s7752
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ThreadPool.h
-c0000000052081B5E0000000000001C8A
-t1376263006
-s7306
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread_POSIX.h
-c0000000052081B5E00000000000014C0
-t1376263006
-s5312
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Timestamp.h
-c0000000052081B5E0000000000001A41
-t1376263006
-s6721
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Types.h
-c0000000052081B5E0000000000001ABE
-t1376263006
-s6846
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
-c0000000052081B5E0000000000001262
-t1376263006
-s4706
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/Name.h
-c0000000052081B5E0000000000001200
-t1376263006
-s4608
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/NamePool.h
-c0000000052081B5E0000000000000C08
-t1376263006
-s3080
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
-c0000000052081B5E000000000000332C
-t1376263006
-s13100
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XML.h
-c0000000052081B5E0000000000000A8A
-t1376263006
-s2698
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLException.h
-c0000000052081B5E00000000000007EB
-t1376263006
-s2027
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLStream.h
-c0000000052081B5E0000000000000C0A
-t1376263006
-s3082
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLString.h
-c0000000052081B5E0000000000000CB6
-t1376263006
-s3254
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
-c0000000052081B5E00000000000036CC
-t1376263006
-s14028
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat.h
-c0000000052081B5E0000000000009D93
-t1376263006
-s40339
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat_external.h
-c0000000052081B5E0000000000000D24
-t1376263006
-s3364
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoCrypto.a
-c0000000052081B6200000000000318D0
-t1376263010
-s202960
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoData.a
-c0000000052081B62000000000009CE00
-t1376263010
-s642560
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoDataODBC.a
-c0000000052081B620000000000075160
-t1376263010
-s479584
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoDataSQLite.a
-c0000000052081B6200000000000D8010
-t1376263010
-s884752
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoFoundation.a
-c0000000052081B62000000000025BAB0
-t1376263010
-s2472624
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoNet.a
-c0000000052081B6200000000001A34D8
-t1376263010
-s1717464
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoNetSSL.a
-c0000000052081B620000000000074590
-t1376263010
-s476560
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoUtil.a
-c0000000052081B6200000000000907F0
-t1376263010
-s591856
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoXML.a
-c0000000052081B6200000000000D9AE8
-t1376263010
-s891624
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoZip.a
-c0000000052081B62000000000007A870
-t1376263010
-s501872
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/rtAudio/lib/osx/rtAudio.a
-c0000000052081B740000000000013C00
-t1376263028
-s80896
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/tess2/include/tesselator.h
-c0000000052081B760000000000001C67
-t1376263030
-s7271
-
-N/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/tess2/lib/osx/tess2.a
-c0000000052081B760000000000016E28
-t1376263030
-s93736
-
-CBuild AST from /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfe2ca67401a4b841^349da97401a4b841^---0#1#1#--18"Check dependencies36"877B0BE5-67E3-434E-9CC6-B566C04B3561-
-
-CCompileC DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s413401460.655959
-e413401464.057251
-r1
-xCompileC
-xDerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/ofMain.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofConstants.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glew/include/GL/glew.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/tess2/include/tesselator.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofFileUtils.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/File.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Foundation.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Config.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Platform_POSIX.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Bugcheck.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Types.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Timestamp.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/File_UNIX.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofLog.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofTypes.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofColor.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMath.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofPoint.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec3f.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec2f.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVec4f.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Exception.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedLock.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofThread.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Thread_POSIX.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Runnable.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SignalHandler.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Event.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Event_POSIX.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/RefCountedObject.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AtomicCounter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoPtr.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEvents.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/events/ofEventUtils.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityEvent.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractEvent.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SingletonHolder.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SharedPtr.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveResult.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveMethod.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveRunnable.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ActiveStarter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ThreadPool.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityStrategy.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/NotificationStrategy.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AbstractDelegate.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityDelegate.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/PriorityExpire.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/events/ofDelegate.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Condition.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/ScopedUnlock.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofUtils.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Path.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofBaseTypes.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofRectangle.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofMesh.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLUtils.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPixels.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofQuaternion.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofXml.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Document.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XML.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Node.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLString.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Event.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Element.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/Name.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/NamePool.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/AutoReleasePool.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/expat_external.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLStream.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/Locator.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/TextEncoding.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMException.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLException.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/SAXException.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamConverter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/StreamUtil.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Attr.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/Text.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/DOM/NodeList.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameter.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/types/ofParameterGroup.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/include/Poco/Any.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofVectorMath.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofSerial.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/communication/ofArduino.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofFbo.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofTexture.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVboMesh.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofVbo.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPolyline.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofGraphics.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofLight.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofNode.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dUtils.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofMaterial.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofShader.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-features.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-pdf.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-version.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/include/cairo/cairo-svg.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofPath.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTessellator.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofImage.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/app/ofBaseApp.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/app/ofAppRunner.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundStream.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_codec.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_dsp.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_memoryinfo.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/include/fmod_errors.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofCamera.h
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h
-oclang: warning: -lpthread: 'linker' input unused
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp176"CompileC DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler280ea87401a4b841^cea70e7801a4b841^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@94"file:///Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp0000000000000000^3547"CompileC DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/ofAppDebug.hmap -I/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -Isrc -I/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/DerivedSources/i386 -I/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/DerivedSources -F/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin -F/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.dia -c /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/src/main.cpp -o /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o36"B2A510D1-15B9-44BB-AC5B-B50EF6700589-
-b3DDC2A1D-B425-4F1E-9C6E-3DC2486DF8FF
-
-CLd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/MacOS/ofAppDebug normal i386
-s413401464.063866
-e413401465.418615
-r1
-xLd
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/MacOS/ofAppDebug
-xnormal
-xi386
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/ofAppDebug.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/main.o
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoCrypto.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoData.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoDataODBC.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoDataSQLite.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoFoundation.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoNet.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoNetSSL.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoUtil.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoXML.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/poco/lib/osx/PocoZip.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/tess2/lib/osx/tess2.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glew/lib/osx/glew.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/lib/osx/cairo-script-interpreter.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/lib/osx/cairo.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/cairo/lib/osx/pixman-1.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/fmodex/lib/osx/libfmodex.dylib
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/rtAudio/lib/osx/rtAudio.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openssl/lib/osx/crypto.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openssl/lib/osx/ssl.a
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glfw/lib/osx/libglfw3.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QTKit.framework/QTKit
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT
-d/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AGL.framework/AGL
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Carbon
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/IOKit.framework/IOKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libstdc++.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libgcc_s.1.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/vecLib.framework/vecLib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.A.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/MacOS/ofAppDebug59"Ld bin/ofAppDebug.app/Contents/MacOS/ofAppDebug normal i3869b73107801a4b841^f12a6b7901a4b841^---0#0#1#--2480"Ld bin/ofAppDebug.app/Contents/MacOS/ofAppDebug normal i386    cd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin -F/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin -F/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/../../../libs/glut/lib/osx -filelist /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/ofAppDebug.LinkFileList -mmacosx-version-min=10.6 -dead_strip ../../../libs/poco/lib/osx/PocoCrypto.a ../../../libs/poco/lib/osx/PocoData.a ../../../libs/poco/lib/osx/PocoDataODBC.a ../../../libs/poco/lib/osx/PocoDataSQLite.a ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoNetSSL.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoZip.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a ../../../libs/openssl/lib/osx/crypto.a ../../../libs/openssl/lib/osx/ssl.a ../../../libs/glfw/lib/osx/libglfw3.a -framework Accelerate -framework QTKit -framework GLUT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -framework CoreVideo -Xlinker -dependency_info -Xlinker /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/ofAppDebug_dependency_info.dat -o /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/MacOS/ofAppDebug36"44E22D82-7A47-4DAA-9478-9CFDE2279931-
-b3DDC2A1D-B425-4F1E-9C6E-3DC2486DF8FF
-
-CPBXCp /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework bin/ofAppDebug.app/Contents/Frameworks/GLUT.framework
-s413401351.276312
-e413401351.393926
-r1
-xPBXCp
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework
-xbin/ofAppDebug.app/Contents/Frameworks/GLUT.framework
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy bin/ofAppDebug.app/Contents/Frameworks/GLUT.framework138"PBXCp /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework bin/ofAppDebug.app/Contents/Frameworks/GLUT.frameworkcdce460701a4b841^2bda640701a4b841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Frameworks/GLUT.framework0034589adeffdf42^526"PBXCp /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework bin/ofAppDebug.app/Contents/Frameworks/GLUT.framework    cd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/libs/glut/lib/osx/GLUT.framework /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Frameworks36"41848AA8-240B-4B60-95AB-6152CFE95B36-
-bA4B17EDC-5131-4EC3-A206-A10938E3DD01
-
-CPhaseScriptExecution Run\ Script /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-s413401465.420929
-e413401465.475144
-r1
-xPhaseScriptExecution
-xRun Script
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'135"PhaseScriptExecution Run\ Script DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.shbdfe6c7901a4b841^27a4797901a4b841^---0#0#1#--28011"PhaseScriptExecution Run\ Script DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh    cd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER yasuhiko    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Products    setenv BUILD_ROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin    setenv CACHE_ROOT /var/folders/43/kw8ln8ss1fj345b_xy11clsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CCHROOT /var/folders/43/kw8ln8ss1fj345b_xy11clsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/43/kw8ln8ss1fj345b_xy11clsc0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin    setenv CONFIGURATION_TEMP_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug    setenv CONTENTS_FOLDER_PATH ofAppDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH ofAppDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/ofApp.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME ofAppDebug.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin    setenv EMBEDDED_PROFILE_NAME embedded.provisionprofile    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH ofAppDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH ofAppDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME ofAppDebug    setenv EXECUTABLE_PATH ofAppDebug.app/Contents/MacOS/ofAppDebug    setenv FILE_LIST /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH ofAppDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin  \"/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME ofAppDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING NONE    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS YES    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_GLFW "\"../../../libs/glfw/include\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtAudio/include\""    setenv HEADER_SEARCH_PATHS "/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/include \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\" src"    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICON icon-debug.icns    setenv ICONV /usr/bin/iconv    setenv ICON_FILE ../../../libs/openFrameworksCompiled/project/osx/icon-debug.icns    setenv ICON_FILE_PATH ../../../libs/openFrameworksCompiled/project/osx/    setenv ICON_NAME_DEBUG icon-debug.icns    setenv ICON_NAME_RELEASE icon.icns    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH ofAppDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH ofAppDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/ofApp.dst/Users/yasuhiko/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER yasuhiko    setenv INSTALL_PATH /Users/yasuhiko/Applications    setenv INSTALL_ROOT /tmp/ofApp.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH ofAppDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/ofAppDebug_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/ofAppDebug-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin                                                              "    setenv LIB_CAIRO1 "\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    setenv LIB_CAIRO2 "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_CAIRO3 "\"../../../libs/cairo/lib/osx/pixman-1.a\""    setenv LIB_FMODEX "\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/osx/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLFW "\"../../../libs/glfw/lib/osx/libglfw3.a\""    setenv LIB_GLUT "\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    setenv LIB_OPENSSL1 "\"../../../libs/openssl/lib/osx/crypto.a\""    setenv LIB_OPENSSL2 "\"../../../libs/openssl/lib/osx/ssl.a\""    setenv LIB_POCO_1 "\"../../../libs/poco/lib/osx/PocoCrypto.a\""    setenv LIB_POCO_10 "\"../../../libs/poco/lib/osx/PocoZip.a\""    setenv LIB_POCO_2 "\"../../../libs/poco/lib/osx/PocoData.a\""    setenv LIB_POCO_3 "\"../../../libs/poco/lib/osx/PocoDataODBC.a\""    setenv LIB_POCO_4 "\"../../../libs/poco/lib/osx/PocoDataSQLite.a\""    setenv LIB_POCO_5 "\"../../../libs/poco/lib/osx/PocoFoundation.a\""    setenv LIB_POCO_6 "\"../../../libs/poco/lib/osx/PocoNet.a\""    setenv LIB_POCO_7 "\"../../../libs/poco/lib/osx/PocoNetSSL.a\""    setenv LIB_POCO_8 "\"../../../libs/poco/lib/osx/PocoUtil.a\""    setenv LIB_POCO_9 "\"../../../libs/poco/lib/osx/PocoXML.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal/i386/ofAppDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH ofAppDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13B42    setenv MAC_OS_X_VERSION_ACTUAL 1091    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0901    setenv MODULE_CACHE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Objects-normal    setenv OBJROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    setenv OF_CORE_LIBS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread -mtune=native"    setenv OTHER_LDFLAGS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH ofAppDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/PkgInfo    setenv PKGINFO_PATH ofAppDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 5A3005    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH ofAppDebug.app/Contents/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH ofAppDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME ofAppDebug    setenv PRODUCT_SETTINGS_PATH /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT ofApp    setenv PROJECT_DERIVED_FILE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/DerivedSources    setenv PROJECT_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    setenv PROJECT_FILE_PATH /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/ofApp.xcodeproj    setenv PROJECT_NAME ofApp    setenv PROJECT_TEMP_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build    setenv PROJECT_TEMP_ROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH ofAppDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH ofAppDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk    setenv SDK_NAME macosx10.8    setenv SDK_PRODUCT_BUILD_VERSION 12F37    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH ofAppDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH ofAppDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    setenv SRCROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_PLATFORMS macosx    setenv SYMROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME ofApp    setenv TARGET_BUILD_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin    setenv TARGET_NAME ofApp    setenv TARGET_TEMP_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build    setenv TEMP_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build    setenv TEMP_FILES_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build    setenv TEMP_FILE_DIR /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build    setenv TEMP_ROOT /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH ofAppDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER yasuhiko    setenv USER_APPS_DIR /Users/yasuhiko/Applications    setenv USER_LIBRARY_DIR /Users/yasuhiko/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH ofAppDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER yasuhiko    setenv VERSION_INFO_FILE ofAppDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:ofAppDebug  PROJECT:ofApp-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME ofAppDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A3005    setenv XCODE_VERSION_ACTUAL 0502    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH ofAppDebug.app/Contents/XPCServices    setenv YACC yacc    setenv arch i386    setenv variant normal    /bin/sh -c /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/DerivedData/ofApp/Build/Intermediates/ofApp.build/Debug/ofApp.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh36"650C18F3-636F-44E0-8240-04669C9C41B9-
-b3DDC2A1D-B425-4F1E-9C6E-3DC2486DF8FF
-
-CProcessInfoPlistFile /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Info.plist /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist
-s413401346.196198
-e413401346.199984
-r1
-xProcessInfoPlistFile
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Info.plist
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist85"ProcessInfoPlistFile bin/ofAppDebug.app/Contents/Info.plist openFrameworks-Info.plistc87e320201a4b841^d0ef330201a4b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist0000000000000000^576"ProcessInfoPlistFile bin/ofAppDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    builtin-infoPlistUtility /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/openFrameworks-Info.plist -genpkginfo /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app/Contents/Info.plist36"22913993-15EC-4125-AB77-53F3ACC7777B-
-bA4B17EDC-5131-4EC3-A206-A10938E3DD01
-
-CTouch /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app
-s413401465.477682
-e413401465.484857
-r1
-xTouch
-x/Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app24"Touch bin/ofAppDebug.appb8577a7901a4b841^221b7c7901a4b841^---0#0#1#--223"Touch bin/ofAppDebug.app    cd /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject    /usr/bin/touch -c /Users/yasuhiko/Desktop/of_v0.8.0_osx_release/apps/myApps/ofMinimalProject/bin/ofAppDebug.app36"680222DA-D20A-4B13-8E78-5C6724AC7914-
-b3DDC2A1D-B425-4F1E-9C6E-3DC2486DF8FF
-
