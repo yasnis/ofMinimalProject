@@ -1,2 +1,3 @@
- bin/
- DerivedData/
+bin/
+DerivedData/
+.gitignore
