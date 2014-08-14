@@ -17,12 +17,6 @@ class testApp : public ofBaseApp{
     void draw(){
         
     }
-    
-    void keyPressed(int key){
-        if(key == 'f'){
-            ofToggleFullscreen();
-        }
-    }
 };
 
 //========================================================================
