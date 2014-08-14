@@ -18,6 +18,7 @@ class testApp : public ofBaseApp{
         
     }
     
+    //--------------------------------------------------------------
     void keyPressed(int key){
         if(key == 'f'){
             ofToggleFullscreen();
