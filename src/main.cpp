@@ -1,6 +1,6 @@
 #include "ofMain.h"
 
-class testApp : public ofBaseApp{
+class ofApp : public ofBaseApp{
     //--------------------------------------------------------------
     void setup(){
         ofBackground(0);
@@ -28,5 +28,5 @@ class testApp : public ofBaseApp{
 //========================================================================
 int main( ){
 	ofSetupOpenGL(960,540, OF_WINDOW);
-	ofRunApp( new testApp());
+	ofRunApp( new ofApp());
 }

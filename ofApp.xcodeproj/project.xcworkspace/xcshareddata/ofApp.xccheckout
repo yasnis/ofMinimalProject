@@ -14,7 +14,7 @@
 		<string>https://github.com/yasnis/ofMinimalProject.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ofApp.xcodeproj/project.xcworkspace</string>
+	<string>ofApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>860D0782218C7724165ED1929F54739F0532E2CF</key>
